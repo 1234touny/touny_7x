@@ -1,2 +1,76 @@
-<div align="center" width="50"><a  href="https://github.com/SP-XD">  <img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/> <br>  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a>  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="625"/> <br><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> #### 1st year BCA student. During day, assisting #### 2nd year BCA student. During day, assisting #### my father at his shop & Coder at night.### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->@@ -24,15 +23,15 @@<hr></hr>-  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> &nbsp; I’m currently learning **C & CPP**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux.gif?raw=true" /><br>-  <img alt="GIF" src="https://github.com/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **CPP, Flutter & WebDev**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br><div align="center" ><a  href="https://github.com/SP-XD"> <a  href="https://github.com/SP-XD"><img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" /><img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />@@ -41,8 +40,8 @@<hr></hr><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" /><img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" /><img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="400"/></div>Collapse file‎images/dev-working_rounded.gif‎Copy file name to clipboard1.22 MBDisplay the source diffDisplay the rich diffViewer requires iframe.Collapse file‎images/dino_rounded.gif‎Copy file name to clipboard559 KBDisplay the source diffDisplay the rich diffViewer requires iframe.Collapse file‎images/hellocoders_rounded.gif‎Copy file name to clipboard1.72 MBDisplay the source diffDisplay the rich diffUnable to render code blockCollapse file‎images/linux_rounded.gif‎Copy file name to clipboard54.1 KBDisplay the source diffDisplay the rich diffViewer requires iframe.Collapse file‎images/dev-working.gif‎  ‎images/not-used/dev-working.gif‎images/dev-working.gif renamed to images/not-used/dev-working.gif Copy file name to clipboardFile renamed without changes.Collapse file‎images/dino.gif‎  ‎images/not-used/dino.gif‎images/dino.gif renamed to images/not-used/dino.gif Copy file name to clipboardFile renamed without changes.Collapse file‎hellocoders.gif‎  ‎images/not-used/hellocoders.gif‎hellocoders.gif renamed to images/not-used/hellocoders.gif Copy file name to clipboardFile renamed without changes.Collapse file‎hellocoders3k.gif‎  ‎images/not-used/hellocoders3k.gif‎hellocoders3k.gif renamed to images/not-used/hellocoders3k.gif Copy file name to clipboardFile renamed without changes.Collapse file‎hellocodersAlt.jpg‎  ‎images/not-used/hellocodersAlt.jpg‎hellocodersAlt.jpg renamed to images/not-used/hellocodersAlt.jpg Copy file name to clipboardFile renamed without changes.Collapse file‎images/linux.gif‎  ‎images/not-used/linux.gif‎images/linux.gif renamed to images/not-used/linux.gif Copy file name to clipboardFile renamed without changes.Collapse file‎sunrise2.gif‎  ‎images/not-used/sunrise2.gif‎sunrise2.gif renamed to images/not-used/sunrise2.gif Copy file name to clipboardFile renamed without changes.Collapse file‎sunrise_clickedbyme.jpeg‎  ‎images/not-used/sunrise_clickedbyme.jpeg‎sunrise_clickedbyme.jpeg renamed to images/not-used/sunrise_clickedbyme.jpeg Copy file name to clipboardFile renamed without changes.Collapse file‎this_page_is.gif‎  ‎images/not-used/this_page_is.gif‎this_page_is.gif renamed to images/not-used/this_page_is.gif Copy file name to clipboardFile renamed without changes.Collapse file‎images/this_page_is.gif‎Copy file name to clipboard223 KBDisplay the source diffDisplay the rich diffUnable to render code block
-0 commit commentsComments0 (0)Please sign in to comment.
+<h1 align="center">Hi 👋, I'm Mohamed Touny</h1>
+<h3 align="center">Software Engineering Student | Future Backend Developer | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;C%2B%2B+Learner;Future+Backend+Developer;Always+learning+new+things" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 I'm a **Software Engineering student**
+- 💻 Passionate about **programming, problem solving, and building projects**
+- 🌱 Currently learning **C++, Data Structures, OOP, and Software Development**
+- 🎯 My goal is to become a skilled **Software Engineer / Backend Developer**
+- ⚡ I enjoy learning new technologies and improving my coding skills every day
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+- C++
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Problem Solving
+- Software Engineering Fundamentals
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <!-- لو عندك لينكدإن حط اللينك هنا -->
+  <!--
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  -->
+
+  <!-- لو عندك فيسبوك أو تيليجرام ممكن تضيفهم -->
+</p>
+
+---
+
+## 💡 Quote I Believe In
+> "Great software is built with patience, practice, and consistency."
+
+---
+
+## 👨‍💻 Visitor Count
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
